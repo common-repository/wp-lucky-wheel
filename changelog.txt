@@ -1,0 +1,90 @@
+/**1.0.12 - 2024.07.16**/
+- Updated: Compatible with WP6.6
+- Fixed: Fixed error when active
+
+/**1.0.11 - 2024.07.04**/
+- Updated: Compatible with WP6.5.5
+- Updated: Update support file
+- Fixed: Fixed security
+
+/**1.0.10 - 2024.04.13**/
+- Updated: Compatible with WP6.5.0
+- Updated: Update support file
+
+/**1.0.9 - 2023.09.22**/
+- Updated: Compatible with WP6.3.0
+- Updated: Update support file
+
+/**1.0.8 - 2023.02.23**/
+- Updated: Compatible with WP6.1.0
+- Updated: Update support file
+– Updated: Language file
+
+/**1.0.7 - 2022.05.21**/
+- Updated: Compatible with WP6.0.0
+- Updated: Update support file
+- Fixed: Fixed security
+
+/**1.0.6 - 2022.03.29 **/
+- Updated: Update support file
+
+/**1.0.5 - 2022.03.21 **/
+- Updated: Compatible with WP5.9
+- Updated: Update support file
+
+/**1.0.4.2 - 2021.08.16 **/
+- Updated: Compatible with WP5.8
+- Updated: Update support file
+
+/**1.0.4.1 - 2021.06.18 **/
+- Updated: Update support file
+
+/**1.0.4 - 2021.06.01 **/
+- Update: Dashboard notices
+
+/*v1.0.3.8 - 2020.08.14*/
+- Updated: Compatible with WP5.5
+- Improved: UI/UX
+
+/*v1.0.3.7 - 2020.04.23*/
+- Updated: Class support
+
+/*v1.0.3.6 - 2020.03.23*/
+- Updated: Compatible with WP5.4 and WC4.0
+- Updated: Class support
+
+/*v1.0.3.5 - 2019.10.07*/
+- Updated: Compatible with WP 5.3
+
+/*v1.0.3.4 - 2019.10.07*/
+- Updated: Premium URL
+
+/*v1.0.3.3 - 2019.04.03*/
+- Updated: Make admin notices dismissible
+
+**v1.0.3.2 - 2018.11.21**
+- Updated: Class support
+
+**v1.0.3.1 - 2018.11.10**
+- Fixed: Class support
+
+**v1.0.3 - 2018.10.15**
+- Fixed: Class support
+
+**v1.0.2 - 2018.09.11**
+- Fixed: Wheel description design
+- Fixed: Some texts not translated
+- Added: Slices text color option
+- Added: Option to set time to show popup again when customers close and do not spin
+- Added: GDPR checkbox
+
+/**1.0.1.1 - 2018.05.11**/
+- Updated: Class support
+
+/**1.0.1 - 2018.05.03**/
+- Added: Select Google fonts
+- Added: Class wp-lucky-wheel-popup-icon to embed in elsewhere
+- Fixed: Responsive on mobile
+
+**v1.0.0**
+- First release.
